@@ -1,6 +1,6 @@
 name: JLSite
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6264712023548782
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.3304198682308197
